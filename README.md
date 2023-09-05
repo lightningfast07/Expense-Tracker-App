@@ -1,4 +1,4 @@
-# expensetracker
+# ExpenseMate
 
 An expense tracker app made using flutter.
 
